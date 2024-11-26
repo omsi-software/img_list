@@ -20,7 +20,7 @@ Debian:         [1.06 20240621](https://drive.omsi-group.com/index.php/s/xGQLJzX
 ## Apollo12 gen2
 Buildroot:      [1.05 20230303](https://drive.omsi-group.com/index.php/s/PnGZeFZimMKiwaJ)\
 Android:        [1.02 20240701](https://drive.omsi-group.com/index.php/s/Nm75f7XqoTasAcp)\
-Debian:         [1.05 20240412](https://drive.omsi-group.com/index.php/s/GxfHwFFjwxqpDe6)
+Debian:         [1.05 20241121](https://drive.omsi-group.com/index.php/s/jDJpaN7MFxd95PP)
 
 ## Apollo12 gen2 pro
 Android:        [1.03 20240614](https://drive.omsi-group.com/index.php/s/oj8EEfgDb96J2mt)\
@@ -30,14 +30,18 @@ Debian A+B[^1]: [1.02 20240704](https://drive.omsi-group.com/index.php/s/g6ZDHkB
 
 [^1]: Only works with min 32GB EMMC
 
+## Apollo12 gen2 plus
+Android:        [1.01 20241114](https://drive.omsi-group.com/index.php/s/nEp8NAPeCrDZ6kP)\
+Debian:         [1.03 20241118](https://drive.omsi-group.com/index.php/s/7bpARMzDrKyQdBi)
+
 ## SPRING10 gen2 pro
 Buildroot:      [1.04 20230913](https://drive.omsi-group.com/index.php/s/BfMjQ64CnAMWs46)\
-Android:        [1.10 20240614](https://drive.omsi-group.com/index.php/s/a9FeYYcebHmLokR)\
+Android:        [1.12 20241105](https://drive.omsi-group.com/index.php/s/7ogp7WF4zDR8Gpd)\
 Android+5G:     [1.10 20240708](https://drive.omsi-group.com/index.php/s/J6rxfBWXYPXwYBs)\
-Debian:         [1.07 20240403](https://drive.omsi-group.com/index.php/s/njtNTJa8HpKgMQH)
+Debian:         [1.10 20241104](https://drive.omsi-group.com/index.php/s/SK89egWBkKetg2n)
 
 ## SPRING10 gen2 plus
-Android:        [1.06 20240620](https://drive.omsi-group.com/index.php/s/3egpRzeqLJPtp63)
+Android:        [1.08 20241113](https://drive.omsi-group.com/index.php/s/qkpeFCS2LxtbC2L)
 
 
 
