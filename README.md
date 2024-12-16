@@ -13,17 +13,17 @@ Android+GMS:    [1.11 20230406](https://drive.omsi-group.com/index.php/s/HbNdHyf
 
 ## Apollo7 gen2
 Buildroot:      [1.06 20230627](https://drive.omsi-group.com/index.php/s/EZER9jirQxSpYRq)\
-Android:        [1.02 20240709](https://drive.omsi-group.com/index.php/s/74swdx4snnbTaT3)\
+Android:        [1.14 20241016](https://drive.omsi-group.com/index.php/s/z6TmXsy2KE5KFH7)\
 Android+5G:     [1.13 20240530](https://drive.omsi-group.com/index.php/s/nqcW72aTaHfH4p6)\
 Debian:         [1.06 20240621](https://drive.omsi-group.com/index.php/s/xGQLJzX47L2QGgR)
 
 ## Apollo12 gen2
 Buildroot:      [1.05 20230303](https://drive.omsi-group.com/index.php/s/PnGZeFZimMKiwaJ)\
-Android:        [1.02 20240701](https://drive.omsi-group.com/index.php/s/Nm75f7XqoTasAcp)\
+Android:        [1.13 20241210](https://drive.omsi-group.com/index.php/s/64Rie8m8TsWGJNC)\
 Debian:         [1.05 20241121](https://drive.omsi-group.com/index.php/s/jDJpaN7MFxd95PP)
 
 ## Apollo12 gen2 pro
-Android:        [1.03 20240614](https://drive.omsi-group.com/index.php/s/oj8EEfgDb96J2mt)\
+Android:        [1.04 20241205](https://drive.omsi-group.com/index.php/s/6BQEkjiF5q3wBJS)\
 Android+5G:     [1.03 20240628](https://drive.omsi-group.com/index.php/s/TWY75XqPk46HPEt)\
 Debian:         [1.05 20240627](https://drive.omsi-group.com/index.php/s/GHqSZDfYNwWND3X)\
 Debian A+B[^1]: [1.02 20240704](https://drive.omsi-group.com/index.php/s/g6ZDHkBjy79sE5o)
