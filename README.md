@@ -14,7 +14,6 @@ Android+GMS:    [1.11 20230406](https://drive.omsi-group.com/index.php/s/HbNdHyf
 ## Apollo7 gen2
 Buildroot:      [1.06 20230627](https://drive.omsi-group.com/index.php/s/EZER9jirQxSpYRq)\
 Android:        [1.15 20241223](https://drive.omsi-group.com/index.php/s/JEHNHF5cPacpsLx)\
-Android+5G:     [1.13 20240530](https://drive.omsi-group.com/index.php/s/nqcW72aTaHfH4p6)\
 Debian:         [1.06 20240621](https://drive.omsi-group.com/index.php/s/xGQLJzX47L2QGgR)
 
 ## Apollo12 gen2
