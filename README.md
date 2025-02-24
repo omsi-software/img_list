@@ -25,7 +25,7 @@ Debian:         [1.05 20241121](https://drive.omsi-group.com/index.php/s/jDJpaN7
 Android:        [1.04 20241205](https://drive.omsi-group.com/index.php/s/6BQEkjiF5q3wBJS)\
 Android+5G:     [1.03 20240628](https://drive.omsi-group.com/index.php/s/TWY75XqPk46HPEt)\
 Debian:         [1.05 20240627](https://drive.omsi-group.com/index.php/s/GHqSZDfYNwWND3X)\
-Debian A+B[^1]: [1.02 20240704](https://drive.omsi-group.com/index.php/s/g6ZDHkBjy79sE5o)
+Debian A+B[^1]: [1.04 20250218](https://drive.omsi-group.com/index.php/s/n92QgmbycEjnWDq)
 
 [^1]: Only works with min 32GB EMMC
 
