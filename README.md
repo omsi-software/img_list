@@ -1,47 +1,84 @@
 # System images
 
-## SPRING7-10
-Buildroot:      [1.33 20240605](https://drive.omsi-group.com/index.php/s/JipQEprKQzg2DZa)\
-Android+GMS:    [1.39 20240603](https://drive.omsi-group.com/index.php/s/wMgWse2ePf4pZAN)
+<details>
+<summary>SPRING7-10</summary>
+                     
+[Buildroot](https://drive.omsi-group.com/index.php/s/iRRJ7wmPrwcffmQ)\
+[Android](https://drive.omsi-group.com/index.php/s/t37DSepTfAkAasb)
 
-## Apollo7-10 pro
-Android:        [1.15 20240523](https://drive.omsi-group.com/index.php/s/AzHjK3RpFXwp7C4)\
-Android+GMS:    [1.15 20240111](https://drive.omsi-group.com/index.php/s/SQsdnbeGLcTfSB3)
+</details>
+  
+<details>
+<summary>Apollo7-10 pro</summary>
+  
+[Buildroot](https://drive.omsi-group.com/index.php/s/fjZgGNWRCeBXpQj)\
+[Android](https://drive.omsi-group.com/index.php/s/CzAmyatAHzLX4RS)
 
-## ApolloX
-Android+GMS:    [1.11 20230406](https://drive.omsi-group.com/index.php/s/HbNdHyfbaKRGXxq)
+</details>
 
-## Apollo7 gen2
-Buildroot:      [1.06 20230627](https://drive.omsi-group.com/index.php/s/EZER9jirQxSpYRq)\
-Android:        [1.15 20241223](https://drive.omsi-group.com/index.php/s/JEHNHF5cPacpsLx)\
-Debian:         [1.06 20240621](https://drive.omsi-group.com/index.php/s/xGQLJzX47L2QGgR)
+<details>
+<summary>ApolloX</summary>
+  
+[Android](https://drive.omsi-group.com/index.php/s/nPzz9s6SpL9fbYC)
 
-## Apollo12 gen2
-Buildroot:      [1.05 20230303](https://drive.omsi-group.com/index.php/s/PnGZeFZimMKiwaJ)\
-Android:        [1.13 20241210](https://drive.omsi-group.com/index.php/s/64Rie8m8TsWGJNC)\
-Debian:         [1.05 20241121](https://drive.omsi-group.com/index.php/s/jDJpaN7MFxd95PP)
+</details>
+  
+<details>
+<summary>Apollo7 gen2</summary>
+  
+[Buildroot](https://drive.omsi-group.com/index.php/s/wSgMDgc4iskZQCn)\
+[Android](https://drive.omsi-group.com/index.php/s/iBNoTaNxz5aq2my)\
+[Debian](https://drive.omsi-group.com/index.php/s/5MayfRmARJRMmNc)
 
-## Apollo12 gen2 pro
-Android:        [1.04 20241205](https://drive.omsi-group.com/index.php/s/6BQEkjiF5q3wBJS)\
-Android+5G:     [1.03 20240628](https://drive.omsi-group.com/index.php/s/TWY75XqPk46HPEt)\
-Debian:         [1.05 20240627](https://drive.omsi-group.com/index.php/s/GHqSZDfYNwWND3X)\
-Debian A+B[^1]: [1.05 20250403](https://drive.omsi-group.com/index.php/s/RToTpNmTrFMP3Md)
+</details>
+  
+<details>
+<summary>Apollo12 gen2</summary>
+  
+[Buildroot](https://drive.omsi-group.com/index.php/s/JD3M9zYbTKnjnE5)\
+[Android](https://drive.omsi-group.com/index.php/s/fKNxGXi8Zd5zxZW)\
+[Debian](https://drive.omsi-group.com/index.php/s/MinemLsrSP58FWr)
+
+</details>
+  
+<details>
+<summary>Apollo12 gen2 pro</summary>
+  
+[Android](https://drive.omsi-group.com/index.php/s/2P3MYoJeSTj3GPe)\
+[Debian](https://drive.omsi-group.com/index.php/s/4G5jywqfD7ciD7J)\
+[Debian A+B](https://drive.omsi-group.com/index.php/s/WLRo9HZ77E7BmYk)[^1]
 
 [^1]: Only works with min 32GB EMMC
 
-## Apollo12 gen2 plus
-Android:        [1.01 20241114](https://drive.omsi-group.com/index.php/s/nEp8NAPeCrDZ6kP)\
-Debian:         [1.03 20241118](https://drive.omsi-group.com/index.php/s/7bpARMzDrKyQdBi)
+</details>
 
-## SPRING10 gen2 pro
-Buildroot:      [1.04 20230913](https://drive.omsi-group.com/index.php/s/BfMjQ64CnAMWs46)\
-Android:        [1.12 20241105](https://drive.omsi-group.com/index.php/s/7ogp7WF4zDR8Gpd)\
-Android+5G:     [1.10 20240708](https://drive.omsi-group.com/index.php/s/J6rxfBWXYPXwYBs)\
-Debian:         [1.10 20241104](https://drive.omsi-group.com/index.php/s/SK89egWBkKetg2n)
+  
+<details>
+<summary>Apollo12 gen2 plus</summary>
+  
+Android:        [Android](https://drive.omsi-group.com/index.php/s/9ZNBwWdQFBosTN6)\
+Debian:         [Debian](https://drive.omsi-group.com/index.php/s/LWcnj3FrdqA9KXs)
 
-## SPRING10 gen2 plus
-Android:        [1.08 20241113](https://drive.omsi-group.com/index.php/s/qkpeFCS2LxtbC2L)
+</details>
+  
+<details>
+<summary>SPRING10 gen2 pro</summary>
+  
+[Buildroot](https://drive.omsi-group.com/index.php/s/ZBL2cq63GdsQKmo)\
+[Android](https://drive.omsi-group.com/index.php/s/cneBEr7d5DtMnqc)\
+[Debian](https://drive.omsi-group.com/index.php/s/t6epNPHs6iDKGZj)
 
+</details>
+  
+<details>
+<summary>SPRING10 gen2 plus</summary>
+  
+[Buildroot](https://drive.omsi-group.com/index.php/s/NXnEfamJJqCmAZm)\
+[Android](https://drive.omsi-group.com/index.php/s/sbCNWw5szGG7Gz5)\
+[Debian](https://drive.omsi-group.com/index.php/s/L2AeRkXyZHebYyE)
+
+</details>
+  
 
 
 
