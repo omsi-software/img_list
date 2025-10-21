@@ -92,6 +92,7 @@ Debian:         [Debian](https://drive.omsi-group.com/index.php/s/LWcnj3FrdqA9KX
 
 <details>
 <summary> Android MIX details </summary>
+  
 # MIX versions: Firmware Merging Solution for Multiple Device Models
 
   
@@ -114,6 +115,7 @@ Model-specific behavior is dynamically configured through **eeprom_config.json**
 |--------|----------------------|--------------|
 | **Apollo Gen2 (7")** | `CP_APOLLO2_A_DEV-2DF077A6_LCD7_B1_MDM_20250321.img` | Apollo Gen2 MIX |
 | **Apollo Gen2 (12")** | `CP_APOLLO2_A_DEV-2DF077A6_LCD12_B0_MDM_20250321.img` | Apollo Gen2 MIX |
+| **Apollo Gen2 pro (12")** | `CP_APOLLO2-12PRO_A_DEV-69DE5087_LCD12_B0_MDM_20250915.img` | Apollo Gen2 MIX |
 | **Spring Gen2 Pro** | `CP_SP2-10PRO_A_CE1DF806_LCD10_B0_CN_MDM_20250114.img` | Spring Gen2 10 MIX |
 | **Spring Gen2 Plus** | `CP_SP2-10PLUS_A_61FA77E2_LCD10_B0_EU_MDM_20250114_OTA.zip` | Spring Gen2 10 MIX |
 
