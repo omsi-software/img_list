@@ -90,6 +90,14 @@ Debian:         [Debian](https://drive.omsi-group.com/index.php/s/LWcnj3FrdqA9KX
 
 </details>
 
+<details>
+<summary>MEGA1</summary>
+
+[Android](https://drive.omsi-group.com/index.php/s/43gcTypKRCaTfGP)\
+[Debian](https://drive.omsi-group.com/index.php/s/GxZqWCCYgfY6Hpx)
+
+</details>
+
 [^2]: See below for installation instructions
 
 
