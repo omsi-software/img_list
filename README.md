@@ -81,6 +81,15 @@ Debian:         [Debian](https://drive.omsi-group.com/index.php/s/LWcnj3FrdqA9KX
 
 </details>
 
+
+<details>
+<summary>TANK2</summary>
+
+[Android](https://drive.omsi-group.com/index.php/s/YG29K5FHwr7Q3mA)\
+[Debian](https://drive.omsi-group.com/index.php/s/HkiPRrEJK5N4B4E)
+
+</details>
+
 [^2]: See below for installation instructions
 
 
